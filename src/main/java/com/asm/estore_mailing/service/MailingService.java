@@ -1,7 +1,6 @@
 package com.asm.estore_mailing.service;
 
 import com.asm.estore_mailing.entity.EmailModel;
-import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.mail.MailException;
 import org.springframework.mail.SimpleMailMessage;
